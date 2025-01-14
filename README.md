@@ -1,7 +1,6 @@
 # Movie Recommendation System
 
-This is a movie recommendation system built using machine learning techniques and Streamlit for the user interface. The project suggests movies based on the similarity of other movies.
-This project, **[Movie Recommendation System](https://movierecomsystem.streamlit.app/)**
+This is a **[Movie Recommendation System](https://movierecomsystem.streamlit.app/)** built using machine learning techniques and Streamlit for the user interface. The project suggests movies based on the similarity of other movies.
 
 ## Project Overview
 
