@@ -39,7 +39,7 @@ movies = pd.DataFrame(movies_dict)
 # Load the similarity.pkl from the extracted folder
 similarity = pickle.load(open('models/similarity.pkl', 'rb'))
 
-st.title("Movie Recommender System")
+st.title("Movie Recommender System :hotdog:")
 
 selected_movie_name = st.selectbox(
     'Which movie you want to predict',
